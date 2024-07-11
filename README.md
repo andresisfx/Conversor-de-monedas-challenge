@@ -16,7 +16,5 @@ Este proyecto es una aplicación de conversión de monedas desarrollada en Java,
 - Java
 - Programación Orientada a Objetos (POO)
 
-## Estructura del Proyecto
 
-El proyecto está organizado de la siguiente manera:
 
